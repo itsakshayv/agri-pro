@@ -1,0 +1,81 @@
+body{
+  font-family: 'Ubuntu', sans-serif;
+}
+.navbar-brand{
+  font-size: 3rem;
+}
+#title {
+  background-color: #289672;
+}
+h1{
+font-family: 'Montserrat', sans-serif;
+  font-size: 3rem;
+  line-height: 1.5;
+  color: white;
+
+}
+.container-fluid{
+  padding:3% 10%;
+}
+.navbar{
+  padding: 0 0 30px 0;
+}
+.btn{
+  margin: 1%;
+
+}
+.nav-item{
+  padding: 0 3px 0 3px;
+  font-size: 1.5rem;
+}
+.rol{
+  width: 100%;
+    border-radius: 10%;
+
+}
+#features{
+  margin: 10% 5%;
+  padding: 20px;
+  text-align: center;
+}
+.bij{
+  width: 60%;
+}
+h3{
+  text-align: center;
+}
+h2{
+  font-family: Montserrat;
+  font-size: 2rem;
+  line-height: 1.5;
+}
+/* testimonial section */
+#testimonials{
+
+  background-color:#289672;
+  text-align: center;
+  color: white;
+}
+.dog-pic{
+  width: 20%;
+  border-radius: 10%;
+}
+/*press section*/
+#press{
+background-color:#ff4c68;
+padding:20px;
+text-align: center;
+}
+.press{
+  width: 20%;
+  padding: 20px 20px 50px;
+}
+.carousel-item{
+    padding: 7% 15%;
+}
+.pad{
+  padding: 10px;
+}
+.fa-solid{
+  color: #289672;
+}
